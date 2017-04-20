@@ -1,0 +1,15 @@
+<svg height="190" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="190" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-20 04:04:20 +0000    31576 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 04:04:20 +0000     5779 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 04:04:20 +0000     6226 bytes  audio-metadata.min.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 04:04:20 +0000     3249 bytes  bin/audio-metadata.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 04:04:20 +0000      113 bytes  index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 04:04:20 +0000     8809 bytes  package.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 04:04:20 +0000     1204 bytes  src/id3v1.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 04:04:20 +0000     2688 bytes  src/id3v2.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 04:04:20 +0000     1903 bytes  src/ogg.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 04:04:20 +0000     1605 bytes  src/utils.js</tspan>
+</text>
+</svg>
